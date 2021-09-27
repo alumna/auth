@@ -1,8 +1,8 @@
 {
 	"name": "@alumna/auth",
 	"version": "0.0.1",
-	"description": "",
-	"main": "index.js",
+	"description": "[Alpha] Authentication library for Alumna Backend. Not ready for producation use",
+	"main": "src/index.js",
 	"scripts": {
 		"test": "jest --coverage --forceExit"
 	},
